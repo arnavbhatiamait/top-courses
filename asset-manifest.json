@@ -1,10 +1,10 @@
 {
   "files": {
-    "main.css": "//arnavbhatiamait.github.io/top-course/static/css/main.317760ec.css",
-    "main.js": "//arnavbhatiamait.github.io/top-course/static/js/main.aa7087bc.js",
-    "index.html": "//arnavbhatiamait.github.io/top-course/index.html",
-    "main.317760ec.css.map": "//arnavbhatiamait.github.io/top-course/static/css/main.317760ec.css.map",
-    "main.aa7087bc.js.map": "//arnavbhatiamait.github.io/top-course/static/js/main.aa7087bc.js.map"
+    "main.css": "/top-courses/static/css/main.317760ec.css",
+    "main.js": "/top-courses/static/js/main.aa7087bc.js",
+    "index.html": "/top-courses/index.html",
+    "main.317760ec.css.map": "/top-courses/static/css/main.317760ec.css.map",
+    "main.aa7087bc.js.map": "/top-courses/static/js/main.aa7087bc.js.map"
   },
   "entrypoints": [
     "static/css/main.317760ec.css",
