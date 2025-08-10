@@ -48,5 +48,3 @@ A simple, responsive courses explorer that fetches course data via an API and le
 - Pagination or infinite scroll for long lists
 - Tag filters (difficulty, provider) for finer control
 
-## License
-- Add or update a LICENSE file as appropriate.
